@@ -9,7 +9,7 @@ export default function Navbar() {
           <ul className="menu">
             <li>Home</li>
             <li>FAQ</li>
-            <li>Changelog</li>
+            <li>Change Log</li>
             <li>Blog</li>
             <li>Download</li>
             <li>Contact</li>

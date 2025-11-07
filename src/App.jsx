@@ -42,7 +42,7 @@ export default function App() {
       />
 
       <main className="container main-grid">
-        {/* Left Column: Customer Tickets */}
+        {/* Left Column: Tickets */}
         <section className="tickets-section">
           <h3>Customer Tickets</h3>
           <div className="tickets-grid">

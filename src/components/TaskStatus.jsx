@@ -19,7 +19,7 @@ export default function TaskStatus({ tasks, resolved, onComplete }) {
         ))}
       </div>
 
-      <h4 className="resolved-title">Resolved Tasks</h4>
+      <h3 className="resolved-title">Resolved Tasks</h3>
       {resolved.length === 0 && <div className="muted">No resolved tasks yet.</div>}
       {resolved.map((task) => (
         <div className="task-item resolved card" key={task.id}>
