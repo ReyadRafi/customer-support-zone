@@ -4,11 +4,10 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="container footer-inner">
-        <div>
-          <h4>CS — Ticket System</h4>
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. 
+        <div className="footer-left-inner">
+          <h4 className="footer-title">CS — Ticket System</h4>
+          <p className="footer-subtitle">
+            The CS — Ticket System is a centralized dashboard for managing all customer inquiries. It allows agents to efficiently view, track, and update the status of every support ticket, ensuring clear progress monitoring and enabling them to promptly mark issues as resolved.
           </p>
         </div>
         <div className="footer-links">

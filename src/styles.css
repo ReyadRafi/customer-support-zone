@@ -225,3 +225,40 @@ body {
   margin: 0;
   line-height: 2rem;
 }
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid #333;
+  padding-top: 1rem;
+  margin-top: 2rem;
+  font-size: 0.8rem;
+}
+
+.footer-left-inner{
+  max-width: 450px;
+}
+
+
+@media (max-width: 768px) {
+  .footer-inner {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .footer-left-inner{
+    max-width: 100%;
+  }
+
+  .footer-left-inner {
+    text-align: center;
+  }
+  
+}
