@@ -7,7 +7,7 @@ export const initialTickets = [
     customer: "John Smith",
     priority: "High",
     status: "open",
-    createdAt: "2024-01-15",
+    createdAt: "📅2024-01-15",
   },
   {
     id: 1002,
@@ -17,7 +17,7 @@ export const initialTickets = [
     customer: "Sarah Johnson",
     priority: "High",
     status: "open",
-    createdAt: "2024-01-16",
+    createdAt: "📅2024-01-16",
   },
   {
     id: 1003,
@@ -27,7 +27,7 @@ export const initialTickets = [
     customer: "Michael Brown",
     priority: "Medium",
     status: "open",
-    createdAt: "2024-01-17",
+    createdAt: "📅2024-01-17",
   },
   {
     id: 1004,
@@ -37,7 +37,7 @@ export const initialTickets = [
     customer: "Emily Davis",
     priority: "Low",
     status: "open",
-    createdAt: "2024-01-18",
+    createdAt: "📅2024-01-18",
   },
   {
     id: 1005,
@@ -47,7 +47,7 @@ export const initialTickets = [
     customer: "David Wilson",
     priority: "High",
     status: "open",
-    createdAt: "2024-01-19",
+    createdAt: "📅2024-01-19",
   },
   {
     id: 1006,
@@ -57,7 +57,7 @@ export const initialTickets = [
     customer: "Olivia Martinez",
     priority: "High",
     status: "open",
-    createdAt: "2024-01-20",
+    createdAt: "📅2024-01-20",
   },
   {
     id: 1007,
@@ -67,7 +67,7 @@ export const initialTickets = [
     customer: "James Anderson",
     priority: "Medium",
     status: "open",
-    createdAt: "2024-01-21",
+    createdAt: "📅2024-01-21",
   },
   {
     id: 1008,
@@ -77,7 +77,7 @@ export const initialTickets = [
     customer: "Sophia Thomas",
     priority: "High",
     status: "open",
-    createdAt: "2024-01-22",
+    createdAt: "📅2024-01-22",
   },
   {
     id: 1009,
@@ -87,7 +87,7 @@ export const initialTickets = [
     customer: "Daniel Garcia",
     priority: "Medium",
     status: "open",
-    createdAt: "2024-01-23",
+    createdAt: "📅2024-01-23",
   },
   {
     id: 1010,
@@ -97,7 +97,7 @@ export const initialTickets = [
     customer: "Emma Rodriguez",
     priority: "Low",
     status: "open",
-    createdAt: "2024-01-24",
+    createdAt: "📅2024-01-24",
   },
   {
     id: 1011,
@@ -107,7 +107,7 @@ export const initialTickets = [
     customer: "Noah Lee",
     priority: "Medium",
     status: "open",
-    createdAt: "2024-01-25",
+    createdAt: "📅2024-01-25",
   },
   {
     id: 1012,
@@ -117,7 +117,7 @@ export const initialTickets = [
     customer: "Ava Walker",
     priority: "Low",
     status: "open",
-    createdAt: "2024-01-26",
+    createdAt: "📅2024-01-26",
   },
   {
     id: 1013,
@@ -127,7 +127,7 @@ export const initialTickets = [
     customer: "William Hall",
     priority: "High",
     status: "open",
-    createdAt: "2024-01-27",
+    createdAt: "📅2024-01-27",
   },
   {
     id: 1014,
@@ -137,7 +137,7 @@ export const initialTickets = [
     customer: "Isabella Allen",
     priority: "Medium",
     status: "open",
-    createdAt: "2024-01-28",
+    createdAt: "📅2024-01-28",
   },
   {
     id: 1015,
@@ -147,7 +147,7 @@ export const initialTickets = [
     customer: "Benjamin Young",
     priority: "High",
     status: "open",
-    createdAt: "2024-01-29",
+    createdAt: "📅2024-01-29",
   },
   {
     id: 1016,
@@ -157,7 +157,7 @@ export const initialTickets = [
     customer: "Mia Hernandez",
     priority: "Low",
     status: "open",
-    createdAt: "2024-01-30",
+    createdAt: "📅2024-01-30",
   },
   {
     id: 1017,
@@ -167,7 +167,7 @@ export const initialTickets = [
     customer: "Ethan King",
     priority: "High",
     status: "open",
-    createdAt: "2024-02-01",
+    createdAt: "📅2024-02-01",
   },
   {
     id: 1018,
@@ -177,7 +177,7 @@ export const initialTickets = [
     customer: "Charlotte Scott",
     priority: "Medium",
     status: "open",
-    createdAt: "2024-02-02",
+    createdAt: "📅2024-02-02",
   },
   {
     id: 1019,
@@ -187,7 +187,7 @@ export const initialTickets = [
     customer: "Henry Green",
     priority: "High",
     status: "open",
-    createdAt: "2024-02-03",
+    createdAt: "📅2024-02-03",
   },
   {
     id: 1020,
@@ -197,6 +197,6 @@ export const initialTickets = [
     customer: "Amelia Adams",
     priority: "Medium",
     status: "open",
-    createdAt: "2024-02-04",
+    createdAt: "📅2024-02-04",
   }
 ];

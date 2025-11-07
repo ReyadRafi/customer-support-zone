@@ -38,9 +38,9 @@ export default function Footer() {
           <div>
             <h5 className="footer-title">Connect Us</h5>
             <ul className="footer-subtitle">
-              <li>Facebook</li>
-              <li>Twitter</li>
-              <li>Instagram</li>
+              <li>ⓕ Facebook</li>
+              <li>𝕏 Twitter</li>
+              <li>🅾 Instagram</li>
             </ul>
           </div>
         </div>
