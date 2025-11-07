@@ -201,3 +201,27 @@ body {
     display: none;
   }
 }
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-links {
+  display: flex;
+  gap: 4rem;
+}
+
+.footer-title {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.footer-subtitle {
+  list-style: none;
+  font-size: 0.8rem;
+  padding: 0;
+  margin: 0;
+  line-height: 2rem;
+}
